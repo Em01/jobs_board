@@ -27,11 +27,19 @@ html {
 
 body {
 	height: 100%;
- background-image: url(http://pixabay.com/get/546f02cce1f26b31618c/1421281518/home-office-593382_1280.jpg?direct);
+ background-image: url(http://pixabay.com/get/3380e9147e77d03138cc/1421282842/office-581127_1280.jpg?direct);
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
   font-family: 'Lato', sans-serif;
+  color: #FFFFFF;
+}
+
+
+.jumbotron {
+	height: 800px;
+	margin: 0px;
+	background-position: center;
 }
 
 .clearfix:before,
